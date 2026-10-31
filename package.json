@@ -1,0 +1,15 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "OpenCode skills and commands: git-commit-staged, advisor",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "opencode",
+    "opencode-plugin"
+  ],
+  "dependencies": {
+    "@opencode/plugin": "latest"
+  },
+  "license": "MIT"
+}
